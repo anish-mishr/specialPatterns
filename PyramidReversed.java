@@ -1,5 +1,9 @@
 package specialPatterns;
 import java.util.Scanner;
+/*
+ * @author Anish
+ *
+ */
 
 public class PyramidReversed {
 // This program prints Reversed Pyramid of Stars

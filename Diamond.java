@@ -1,6 +1,10 @@
 package specialPatterns;
 
 import java.util.Scanner;
+/*
+ * @author Anish
+ *
+ */
 
 public class Diamond {
 // This program prints Diamond of Stars

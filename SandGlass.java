@@ -1,6 +1,10 @@
 package specialPatterns;
 
 import java.util.Scanner;
+/*
+ * @author Anish
+ *
+ */
 
 public class SandGlass {
 // This program prints SandGlass of Stars

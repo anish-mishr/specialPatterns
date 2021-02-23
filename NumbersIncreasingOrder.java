@@ -1,5 +1,9 @@
 package specialPatterns;
 import java.util.*;
+/*
+ * @author Anish
+ *
+ */
 
 public class NumbersIncreasingOrder {
 // 	This program prints the numbers in Right Triangle Increasing Order

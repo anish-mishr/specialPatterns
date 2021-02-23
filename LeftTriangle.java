@@ -1,5 +1,9 @@
 package specialPatterns;
 import java.util.*;
+/*
+ * @author Anish
+ *
+ */
 
 public class LeftTriangle {
 // This program prints Left Triangle

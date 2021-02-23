@@ -1,5 +1,9 @@
 package specialPatterns;
 import java.util.*;
+/*
+ * @author Anish
+ *
+ */
 
 public class Pyramid {
 // This program prints Pyramid of Stars

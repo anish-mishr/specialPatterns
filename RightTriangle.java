@@ -1,5 +1,9 @@
 package specialPatterns;
 import java.util.*;
+/*
+ * @author Anish
+ *
+ */
 
 public class RightTriangle {
 //	This Program prints Right Triangle

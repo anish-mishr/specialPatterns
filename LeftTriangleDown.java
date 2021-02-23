@@ -1,5 +1,9 @@
 package specialPatterns;
 import java.util.*;
+/*
+ * @author Anish
+ *
+ */
 
 public class LeftTriangleDown {
 // This program prints Left Triangle DownWards
